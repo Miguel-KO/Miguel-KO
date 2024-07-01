@@ -1,4 +1,5 @@
 
+
 <h1 align="center">Hi 👋, I'm Miguel</h1>
 <h3 align="center">A passionate frontend developer from Ghana</h3>
 <img align="right" alt="Coding" width="400" src= "https://cdn.pixabay.com/photo/2018/06/08/00/48/developer-3461405_1280.png">
