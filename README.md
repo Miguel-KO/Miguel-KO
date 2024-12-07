@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Miguel</h1>
-<h3 align="center">A passionate frontend developer from Ghana</h3>
+<h3 align="center">Aspiring Web Developer </h3>
 <img align="right" alt="Coding" width="400" src= "https://cdn.pixabay.com/photo/2018/06/08/00/48/developer-3461405_1280.png">
 
 
@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://miguel-ko.github.io/Miguel-Portfolio/](https://miguel-ko.github.io/Miguel-Portfolio/)
 
-- 💬 Ask me about **HTML, CSS**
+- 💬 Ask me about **HTML, CSS,Javascript, Node.Js**
 
 - 📫 How to reach me **migzee321@gmail.com**
 
