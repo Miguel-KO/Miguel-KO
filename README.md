@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Miguel</h1>
-<h3 align="center">Aspiring Web Developer </h3>
+<h3 align="center">Software Developer </h3>
 <img align="right" alt="Coding" width="400" src= "https://cdn.pixabay.com/photo/2018/06/08/00/48/developer-3461405_1280.png">
 
 
@@ -10,13 +10,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **React JS,NODE**
+- 🌱 I’m currently learning **Game development**
 
 - 👨‍💻 All of my projects are available at [https://miguel-ko.github.io/Miguel-Portfolio/](https://miguel-ko.github.io/Miguel-Portfolio/)
 
 - 💬 Ask me about **HTML, CSS,Javascript, Node.Js**
 
-- 📫 How to reach me **migzee321@gmail.com**
+- 📫 How to reach me **koduromiguel@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
