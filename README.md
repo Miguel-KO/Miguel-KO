@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Game development**
+- 🌱 I’m currently learning **Game development and Python**
 
 - 👨‍💻 All of my projects are available at [https://miguel-ko.github.io/Miguel-Portfolio/](https://miguel-ko.github.io/Miguel-Portfolio/)
 
