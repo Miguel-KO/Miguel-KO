@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://miguel-ko.github.io/Miguel-Portfolio/](https://miguel-ko.github.io/Miguel-Portfolio/)
 
-- 💬 Ask me about **Unreal Engine**
+- 💬 Ask me about **Unreal Engine , python and c++**
 
 - 📫 How to reach me **koduromiguel@gmail.com**
 
